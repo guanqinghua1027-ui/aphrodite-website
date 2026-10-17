@@ -1,0 +1,14 @@
+{
+  "version": "V2.7",
+  "new_atmospheric_photos": [
+    "assets/editorial/artwork-detail.webp",
+    "assets/editorial/material-detail.webp",
+    "assets/editorial/object-detail.webp",
+    "assets/editorial/furnishing-detail.webp"
+  ],
+  "source": "Cropped from existing APHRODITE project photography; no external image licensing assumptions.",
+  "project_details": 10,
+  "existing_project_images_preserved": true,
+  "founder_photo_preserved": true,
+  "notes": "Code and local file-link checks; real browser visual QA not completed."
+}
